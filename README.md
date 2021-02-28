@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi, I'm Nicole! I am currently learning how to be a master hacker. 😁
+
+science student exploring the world of computers
